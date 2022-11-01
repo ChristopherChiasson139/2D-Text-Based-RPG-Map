@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _2D_Text_Based_RPG_Map
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+
+        static void DisplayMap(int scale)
+        {
+
+        }
+
+    }
+}
